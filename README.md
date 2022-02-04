@@ -1,10 +1,10 @@
 # flutter_apps
 
-A new Flutter project.
+My first Flutter project called rockonnect.
 
-## Getting Started
+## Intro
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter basic application that does music search on the false online of the web application called rockonnect.
 
 A few resources to get you started if this is your first Flutter project:
 
